@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../fsr_device"
+		},
+		{
+			"name": "ppg",
+			"path": "../ppg"
+		}
+	],
+	"settings": {}
+}
